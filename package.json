@@ -35,6 +35,5 @@
     "webpack": "^3.10.0",
     "ws": "^4.0.0"
   },
-  "devDependencies": {
-  }
+  "devDependencies": {}
 }
